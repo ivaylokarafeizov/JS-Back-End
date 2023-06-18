@@ -61,7 +61,7 @@ The "JS Back-End" course is intensive and aims to introduce learners to the deve
 ### 💡 Skills you will acquire
 
 <ul>
-  <li>Use Web Server
+  <li>Use of Web Server
   <li>HTTP protocol operation
   <li>Server applications with Node.JS
   <li>Working with non-relational databases
